@@ -1,6 +1,8 @@
 # Ataby OS 🚀
 
-![Ataby OS Logo](AtabyOS.png)
+<p align="center">
+  <img src="AtabyOS.png" alt="Ataby OS Logo" width="250">
+</p>
 
 **Ataby OS** is an innovative, hybrid Linux-based operating system designed to bridge performance and aesthetics. It seamlessly runs native Linux apps, Android applications, and Windows games under a unified ecosystem with custom intelligent resource management.
 
