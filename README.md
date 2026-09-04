@@ -1,6 +1,6 @@
 # Baldic OS 🌀
 
-<img src="docs/Baldic OS Logo with Background.png" alt="Baldic OS Logo" width="220" />
+<img src="docs/Baldic OS_20260904_204219_0000.png" alt="Baldic OS Logo" width="220" />
 
 > **A modern, hybrid Linux distribution built on Debian 13 (Trixie), featuring the MetroWiz desktop environment and seamless cross-platform app support.**
 
