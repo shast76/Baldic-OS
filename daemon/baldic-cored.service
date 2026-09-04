@@ -1,0 +1,13 @@
+[Unit]
+Description=Baldic OS Core Management Daemon
+After=network.target
+
+[Service]
+Type=simple
+User=baldic
+ExecStart=/home/baldic/Baldic-os/daemon/baldic-cored
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
