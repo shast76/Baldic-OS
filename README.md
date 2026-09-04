@@ -13,7 +13,7 @@ Baldic OS is an independent Linux distribution designed to unite performance, ae
 * **Debian 13 (Trixie) Base:** Unshakeable system stability with access to robust APT repositories.
 * **Baldic Kernel:** Custom-patched Linux kernel with native `BinderFS` and `Ashmem` support for high-performance Android execution.
 * **MetroWiz Shell:** A unique Qt6/QML desktop environment blending **Frutiger Metro** typography with **TouchWiz** glass aesthetics and *Aero* animations.
-* **`baldic-cored` Daemon:** Smart system resource manager that intelligently manages background Android (Waydroid) and Windows (Proton/Wine) runtimes.
+* **`baldic-cored` Daemon:** Smart system resource manager that intelligently manages background Native Android Runtime (BinderFS/Ashmem) and Windows (Proton/Wine) runtimes
 * **Hybrid Application Ecosystem:** Integrated app store designed to handle Linux packages, Android APKs, and Windows software under one roof.
 
 ---
